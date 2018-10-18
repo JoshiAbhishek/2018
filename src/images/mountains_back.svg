@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="794px" height="658px" viewBox="0 0 794 658" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>mountains_back</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="44.5231503%" y1="0%" x2="44.5231497%" y2="97.9232211%" id="linearGradient-1">
+            <stop stop-color="#3B3B3B" offset="0%"></stop>
+            <stop stop-color="#A9A9A9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Copy-16" transform="translate(-646.000000, -2081.000000)" fill="url(#linearGradient-1)">
+            <path d="M1218,2081.0037 C1276,2082.0037 1341,2267.29715 1388,2274.0037 C1433.69163,2280.52355 1441,2383.0037 1481,2382.0037 C1502.64405,2381.46259 1620.08728,2489.75836 1842,2738.23555 L646.50116,2738.23555 C742.074574,2455.09101 798.068761,2308.58171 814.483722,2298.70765 C829.732027,2289.53536 901.583563,2378.22497 916.569486,2371.10383 C934.660981,2362.50696 1003.61103,2285.54471 1027.25194,2283.89934 C1050.89286,2282.25397 1160,2080.0037 1218,2081.0037 Z" id="mountains_back"></path>
+        </g>
+    </g>
+</svg>

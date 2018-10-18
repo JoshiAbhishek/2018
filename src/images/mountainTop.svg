@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1198px" height="741px" viewBox="0 0 1198 741" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>mountainTop</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1198" height="749"></rect>
+        <path d="M1996.32835,852 C1958.80277,795.680386 1930.91545,755.229972 1907.77421,726.190823 C1902.03831,718.993051 1895.52222,724.16074 1892.92126,720.492494 C1831.63593,634.059219 1723.77372,487.998056 1721.16428,484.522683 C1718.55484,481.04731 1953.40602,792.778329 1713.36505,474.152652 C1473.32407,155.526975 1316.56273,-2.51383256 1243.08102,0.030228151 C1192.90917,1.76726227 1086.30773,206.629564 1032.18362,227.759042 C1006.15599,237.919953 950.418742,153.630703 923.935403,166.718329 C900.266327,178.415193 750.522317,406.842416 474.703374,852 L1996.32835,852 Z M2411,1481.10713 C2439.19677,1526.8129 2469.19677,1575.44385 2501,1627 L2411,1627 L2411,1481.10713 Z M433,1622.20528 L0,1627 C166.850303,1352.42654 311.183637,1116.5611 433,919.403683 L433,1622.20528 Z" id="path-3"></path>
+        <path d="M639,-160 L1808,-160 L1808,544.656131 C1705.31126,494.006951 1635.70573,474.43317 1599.18341,485.934787 C1536.45457,505.689369 1501.03477,654.055408 1464.94418,645.656843 C1413.17093,633.608799 1274.69655,399.083905 1246.80542,396.678343 C1196.74987,392.361138 1118.88505,488.461395 1093.92185,485.934787 C1059.95713,482.497104 1025.14484,427.349904 1006.29346,427.213442 C980.335697,427.025539 944.133978,573.823037 927.987241,572.842376 C874.474376,569.592307 838.007558,487.160243 819.85008,485.934787 C771.353273,482.661716 712.446032,495.708191 673,516 L639,-160 Z" id="path-5"></path>
+        <filter x="-0.3%" y="-0.4%" width="101.0%" height="101.7%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="5" dy="7" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.338824728 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-3" transform="translate(-556.000000, -1516.000000)">
+            <g id="mountainTop" transform="translate(556.000000, 1508.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill-opacity="0" fill="#D8D8D8" xlink:href="#path-1"></use>
+                <g id="Rectangle-7" mask="url(#mask-2)">
+                    <g transform="translate(-649.000000, 76.000000)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <use id="Mask" stroke="none" fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        <g id="Rectangle-7" stroke="none" fill="none" mask="url(#mask-4)">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                        </g>
+                    </g>
+                </g>
+                <g id="tree" mask="url(#mask-2)">
+                    <g transform="translate(598.000000, 8.000000)">
+                        <rect id="Rectangle-8" fill="#D8D8D8" x="0" y="0" width="3" height="74.9994401"></rect>
+                        <g id="Group-26" stroke-width="1" fill="none" transform="translate(3.000000, 0.000000)">
+                            <path d="M0,2.07282687e-16 C10.8632645,2.54837504e-16 17.5299311,1.85743275e-16 20,0 C23.7051033,-1.74697164e-16 23,3 27,3 C29.6666667,3 37,3 49,3 L49,38 C36.3333333,38 29,38 27,38 C24,38 23.7051033,35 20,35 C17.5299311,35 10.8632645,35 0,35 L0,2.07282687e-16 Z" id="Rectangle-9" fill="#FFFFFF"></path>
+                            <g id="Group-10" transform="translate(14.000000, 10.000000)" stroke="#D72169">
+                                <circle id="Oval-4" fill="#FFFFFF" cx="9" cy="9" r="9"></circle>
+                                <path d="M4.5,10.5 L14.5,7.5" id="Line" stroke-linecap="round"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
