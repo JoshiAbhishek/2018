@@ -1,0 +1,235 @@
+body {
+    padding-top: 0em;
+    text-align: center;
+    background-image: url("./images/lookback/4.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
+
+.row {
+    max-width: 100% !important;
+}
+
+.card {
+    border: none !important;
+    border-radius: 0px !important;
+}
+
+.card img {
+    border: none !important;
+    border-radius: 0px !important;
+} 
+
+#welcome-section {
+    padding-top: 10em;
+    padding-bottom: 5em;
+    background-color: rgba(25, 0, 41, .8);
+}
+
+#welcome-section img {
+    margin-bottom: 7em;
+    max-width: 325px;
+}
+
+#welcome-section h2 {
+    margin-bottom: .5em;
+}
+
+#welcome-section p {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#welcome-section a {
+    color: inherit;
+    text-decoration: underline;
+}
+
+#gallery-section {
+    padding-top: 5em;
+    padding-bottom: 5em;
+}
+
+#gallery-section h2 {
+    margin-bottom: .5em;
+}
+
+#gallery-section p {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2em;
+}  
+
+.sponsor-container {
+    width: 100%;
+    text-align: center;
+}
+
+.sponsor-container .col-sm-3 {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    max-width: 400px;
+}
+
+.sponsor-container .s-row {
+    margin-bottom: 40px;
+}
+
+.sponsor-container h3 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sponsor-pic {
+    max-width: 100%;
+    height: auto;
+}
+
+#qualtrics {
+    max-height: 110%;
+    height: 110%;
+}
+
+.white {
+    filter: brightness(100);
+}
+
+#sponsor-section {
+    padding-top: 5em;
+    padding-bottom: 2em;
+}
+
+#sponsor-section h2 {
+    margin-bottom: .5em;
+}
+
+#sponsor-section p {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1em;
+}
+
+#team-section {
+    padding-top: 5em;
+    padding-bottom: 5em;
+}
+
+#team-section h2 {
+    margin-bottom: .5em;
+}
+
+#team-section p {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 3em;
+}
+
+#team-section .row {
+    margin-bottom: 2.5em;
+}
+
+.team-member-image-link {
+    color: inherit;
+}
+
+.team-member-image-link:hover {
+    color: #ed478e;
+}
+
+.team-member-image-link img {
+    margin-bottom: .5em;
+}
+
+.team-member-image-link h3 {
+    font-size: 1.25em;
+}
+
+footer {
+    padding: 5em;
+    padding-bottom: 2em;
+}
+
+footer p {
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+}
+
+.footer-dubhacks-logo {
+    max-height: 50px !important;
+    margin-bottom: 1em;
+}
+
+#footer-motto > .row {
+    max-width: 250px !important;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+#footer-motto img {
+    max-width: 50px;
+}
+
+#footer-links a {
+    color: inherit;
+    margin: .1em;
+}
+
+#footer-links a:hover {
+    text-decoration: underline;
+    color: #ed478e;
+}
+
+#footer-social-media a {
+    color: inherit;
+    font-size: 2em;
+    margin: .1em;
+}
+
+#footer-social-media a:hover {
+    color: #ed478e;
+}
+
+@media(max-width: 560px) {
+    .sponsor-container .s-row {
+        margin-bottom: 0px;
+    }
+    
+    .sponsor-container .col-sm-3 {
+        margin-bottom: 40px;
+        max-height: 100px;
+        width: 100%; 
+    }
+    
+    .sponsor-container .col-sm-6 {
+        margin-bottom: 40px;
+        max-height: 100px;
+        width: 100%; 
+    }
+    
+    .sponsor-container .col-sm-3 img {
+        width: 70%;
+        min-width: 200px;
+        max-height: 100%;
+        max-width: 100%;
+    }
+    
+    .sponsor-container .col-sm-6 img {
+        width: 70%;
+        min-width: 200px;
+        max-height: 100%;
+        max-width: 100%;
+    }
+    
+    .filler-div {
+        display: none;
+    }
+}
