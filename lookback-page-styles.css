@@ -62,6 +62,30 @@ body {
     margin-bottom: 2em;
 }  
 
+#stats-section {
+    padding-top: 5em;
+    padding-bottom: 5em;
+}
+
+#stats-section img {
+    max-width: 500px;
+}
+
+#stats-section h2 {
+    margin-bottom: .5em;
+}
+
+#stats-section p {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1.5em;
+}
+
+#stats-section a.button {
+    font-weight: 600;
+}
+
 .sponsor-container {
     width: 100%;
     text-align: center;
