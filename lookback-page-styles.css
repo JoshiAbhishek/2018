@@ -168,6 +168,8 @@ body {
 }
 
 .team-member-image-link img {
+    width: 100%;
+    max-width: 100%;
     margin-bottom: .5em;
 }
 
